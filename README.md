@@ -1,4 +1,5 @@
-﻿# 歐付寶 電子發票介接RoR 第一版
+# I developed during in O'Pay&ECPay as a QAE.
+# 歐付寶 電子發票介接RoR 第一版
 ---
 
 ## 1. 介紹
